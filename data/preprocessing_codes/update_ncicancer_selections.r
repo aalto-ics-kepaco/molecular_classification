@@ -46,8 +46,8 @@ tar.all = tar
 
 
 
-write.table(act.all, '/cs/taatto/group/urenzyme/workspace/molecular_classification/data/DTPNCI2015/activities_processed', row.names = FALSE, col.names = FALSE)
-write.table(tar.all, '/cs/taatto/group/urenzyme/workspace/molecular_classification/data/DTPNCI2015/targets_processed', row.names = FALSE, col.names = FALSE)
+write.table(act.all, '/cs/taatto/group/urenzyme/workspace/molecular_classification/data/DTPNCI2015/activity_processed', row.names = FALSE, col.names = FALSE)
+write.table(tar.all, '/cs/taatto/group/urenzyme/workspace/molecular_classification/data/DTPNCI2015/target_processed', row.names = FALSE, col.names = FALSE)
 
 
 

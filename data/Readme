@@ -18,3 +18,4 @@
         -. To tackle this problem, we are given a set of 60 cancer cell lines given in otherfiles/id2aid/names.
         -. We need to filter the activity matrix, column in particular, against the known cell lines. As a results, we reduce the cell lines from 73 to 60.
         -. We also need to filter row of the matrix in which we remove the molecule that does not have a complete activities in all 60 cell lines. 
+-. 
