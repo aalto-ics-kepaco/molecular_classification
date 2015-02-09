@@ -1,0 +1,866 @@
+1. NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the NCI-H23 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 1
+
+2. NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the NCI-H226 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 3
+
+3. NCI human tumor cell line growth inhibition assay. Data for the NCI-H322M Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the NCI-H322M human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 5
+
+4. NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the NCI-H460 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 7
+
+5. NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the HOP-62 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 9
+
+6. NCI human tumor cell line growth inhibition assay. Data for the HOP-18 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the HOP-18 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 11
+
+7. NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the HOP-92 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 13
+
+8. NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the NCI-H522 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 15
+
+9. NCI human tumor cell line growth inhibition assay. Data for the LXFL 529 Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the LXFL 529 human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 17
+
+10. NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the A549/ATCC human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 19
+
+11. NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the EKVX human Non-Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 21
+
+12. NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line [Confirmatory]
+Growth inhibition of the LOX IMVI human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 23
+
+13. NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line [Confirmatory]
+Growth inhibition of the M14 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 25
+
+14. NCI human tumor cell line growth inhibition assay. Data for the M19-MEL Melanoma cell line [Confirmatory]
+Growth inhibition of the M19-MEL human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 27
+
+15. NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Melanoma cell line [Confirmatory]
+Growth inhibition of the MALME-3M human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 29
+
+16. NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Melanoma cell line [Confirmatory]
+Growth inhibition of the UACC-62 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 31
+
+17. NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Melanoma cell line [Confirmatory]
+Growth inhibition of the UACC-257 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 33
+
+18. NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Melanoma cell line [Confirmatory]
+Growth inhibition of the SK-MEL-2 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 35
+
+19. NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Melanoma cell line [Confirmatory]
+Growth inhibition of the SK-MEL-5 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 37
+
+20. NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Melanoma cell line [Confirmatory]
+Growth inhibition of the SK-MEL-28 human Melanoma tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 39
+
+21. NCI human tumor cell line growth inhibition assay. Data for the PC-3 Prostate cell line [Confirmatory]
+Growth inhibition of the PC-3 human Prostate tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 41
+
+22. NCI human tumor cell line growth inhibition assay. Data for the DU-145 Prostate cell line [Confirmatory]
+Growth inhibition of the DU-145 human Prostate tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 43
+
+23. NCI human tumor cell line growth inhibition assay. Data for the SF-268 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SF-268 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 45
+
+24. NCI human tumor cell line growth inhibition assay. Data for the SF-295 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SF-295 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 47
+
+25. NCI human tumor cell line growth inhibition assay. Data for the SF-539 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SF-539 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 49
+
+26. NCI human tumor cell line growth inhibition assay. Data for the XF 498 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the XF 498 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 51
+
+27. NCI human tumor cell line growth inhibition assay. Data for the SNB-19 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SNB-19 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 53
+
+28. NCI human tumor cell line growth inhibition assay. Data for the SNB-75 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SNB-75 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 55
+
+29. NCI human tumor cell line growth inhibition assay. Data for the SNB-78 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the SNB-78 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 57
+
+30. NCI human tumor cell line growth inhibition assay. Data for the U251 Central Nervous System cell line [Confirmatory]
+Growth inhibition of the U251 human Central Nervous System tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 59
+
+31. NCI human tumor cell line growth inhibition assay. Data for the DMS 273 Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the DMS 273 human Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 61
+
+32. NCI human tumor cell line growth inhibition assay. Data for the DMS 114 Small Cell Lung cell line [Confirmatory]
+Growth inhibition of the DMS 114 human Small Cell Lung tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 63
+
+33. NCI human tumor cell line growth inhibition assay. Data for the HT29 Colon cell line [Confirmatory]
+Growth inhibition of the HT29 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 65
+
+34. NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Colon cell line [Confirmatory]
+Growth inhibition of the COLO 205 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 67
+
+35. NCI human tumor cell line growth inhibition assay. Data for the DLD-1 Colon cell line [Confirmatory]
+Growth inhibition of the DLD-1 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 69
+
+36. NCI human tumor cell line growth inhibition assay. Data for the HCT-15 Colon cell line [Confirmatory]
+Growth inhibition of the HCT-15 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 71
+
+37. NCI human tumor cell line growth inhibition assay. Data for the KM12 Colon cell line [Confirmatory]
+Growth inhibition of the KM12 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 73
+
+38. NCI human tumor cell line growth inhibition assay. Data for the KM20L2 Colon cell line [Confirmatory]
+Growth inhibition of the KM20L2 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 75
+
+39. NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Colon cell line [Confirmatory]
+Growth inhibition of the HCC-2998 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 77
+
+40. NCI human tumor cell line growth inhibition assay. Data for the HCT-116 Colon cell line [Confirmatory]
+Growth inhibition of the HCT-116 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 79
+
+41. NCI human tumor cell line growth inhibition assay. Data for the SW-620 Colon cell line [Confirmatory]
+Growth inhibition of the SW-620 human Colon tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 81
+
+42. NCI human tumor cell line growth inhibition assay. Data for the MCF7 Breast cell line [Confirmatory]
+Growth inhibition of the MCF7 human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 83
+
+43. NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Breast cell line [Confirmatory]
+Growth inhibition of the MDA-MB-435 human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 85
+
+44. NCI human tumor cell line growth inhibition assay. Data for the MDA-N Breast cell line [Confirmatory]
+Growth inhibition of the MDA-N human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 87
+
+45. NCI human tumor cell line growth inhibition assay. Data for the BT-549 Breast cell line [Confirmatory]
+Growth inhibition of the BT-549 human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 89
+
+46. NCI human tumor cell line growth inhibition assay. Data for the T-47D Breast cell line [Confirmatory]
+Growth inhibition of the T-47D human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 91
+
+47. NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Breast cell line [Confirmatory]
+Growth inhibition of the NCI/ADR-RES human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 93
+
+48. NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Breast cell line [Confirmatory]
+Growth inhibition of the MDA-MB-231/ATCC human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 95
+
+49. NCI human tumor cell line growth inhibition assay. Data for the HS 578T Breast cell line [Confirmatory]
+Growth inhibition of the HS 578T human Breast tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 97
+
+50. NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Ovarian cell line [Confirmatory]
+Growth inhibition of the OVCAR-3 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 99
+
+51. NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Ovarian cell line [Confirmatory]
+Growth inhibition of the IGROV1 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 101
+
+52. NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Ovarian cell line [Confirmatory]
+Growth inhibition of the SK-OV-3 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 103
+
+53. NCI human tumor cell line growth inhibition assay. Data for the OVCAR-4 Ovarian cell line [Confirmatory]
+Growth inhibition of the OVCAR-4 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 105
+
+54. NCI human tumor cell line growth inhibition assay. Data for the OVCAR-5 Ovarian cell line [Confirmatory]
+Growth inhibition of the OVCAR-5 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 107
+
+55. NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Ovarian cell line [Confirmatory]
+Growth inhibition of the OVCAR-8 human Ovarian tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 109
+
+56. NCI human tumor cell line growth inhibition assay. Data for the P388 Leukemia cell line [Confirmatory]
+Growth inhibition of the P388 human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 111
+
+57. NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Leukemia cell line [Confirmatory]
+Growth inhibition of the RPMI-8226 human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 113
+
+58. NCI human tumor cell line growth inhibition assay. Data for the SR Leukemia cell line [Confirmatory]
+Growth inhibition of the SR human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 115
+
+59. NCI human tumor cell line growth inhibition assay. Data for the P388/ADR Leukemia cell line [Confirmatory]
+Growth inhibition of the P388/ADR human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 117
+
+60. NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Leukemia cell line [Confirmatory]
+Growth inhibition of the CCRF-CEM human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 119
+
+61. NCI human tumor cell line growth inhibition assay. Data for the K-562 Leukemia cell line [Confirmatory]
+Growth inhibition of the K-562 human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 121
+
+62. NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Leukemia cell line [Confirmatory]
+Growth inhibition of the MOLT-4 human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 123
+
+63. NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Leukemia cell line [Confirmatory]
+Growth inhibition of the HL-60(TB) human Leukemia tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 125
+
+64. NCI human tumor cell line growth inhibition assay. Data for the SN12K1 Renal cell line [Confirmatory]
+Growth inhibition of the SN12K1 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 127
+
+65. NCI human tumor cell line growth inhibition assay. Data for the A498 Renal cell line [Confirmatory]
+Growth inhibition of the A498 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 129
+
+66. NCI human tumor cell line growth inhibition assay. Data for the CAKI-1 Renal cell line [Confirmatory]
+Growth inhibition of the CAKI-1 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 131
+
+67. NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Renal cell line [Confirmatory]
+Growth inhibition of the RXF 393 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 133
+
+68. NCI human tumor cell line growth inhibition assay. Data for the RXF-631 Renal cell line [Confirmatory]
+Growth inhibition of the RXF-631 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 135
+
+69. NCI human tumor cell line growth inhibition assay. Data for the 786-0 Renal cell line [Confirmatory]
+Growth inhibition of the 786-0 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 137
+
+70. NCI human tumor cell line growth inhibition assay. Data for the ACHN Renal cell line [Confirmatory]
+Growth inhibition of the ACHN human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 139
+
+71. NCI human tumor cell line growth inhibition assay. Data for the TK-10 Renal cell line [Confirmatory]
+Growth inhibition of the TK-10 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 141
+
+72. NCI human tumor cell line growth inhibition assay. Data for the UO-31 Renal cell line [Confirmatory]
+Growth inhibition of the UO-31 human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 143
+
+73. NCI human tumor cell line growth inhibition assay. Data for the SN12C Renal cell line [Confirmatory]
+Growth inhibition of the SN12C human Renal tumor cell line is measured as a screen for anti-cancer activity. Cells are grown in 96 well plates and exposed to the test compound for 48 hours. Compounds are tested at 5 different concentrations and three endpoints are estimated from this dose response curve: GI50, concentration required for 50% inhibition of growth, TGI, the concentration requires for complete inhibition of growth, and LC50, the concentration required for 50% reduction in cell number. These estimates are done by simple linear interpolation between the concentrations that surround the approriate level. If a compound doesn't cause inhibition to the appropriate level, the endpoint is set to the highest concentration tested. 
+Source: DTP/NCI
+AID: 145
+
+74. NCI Yeast Anticancer Drug Screen. Data for the rad52 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is rad52 
+Source: DTP/NCI
+AID: 147
+
+75. NCI Yeast Anticancer Drug Screen. Data for the wt1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is wt1 
+Source: DTP/NCI
+AID: 149
+
+76. NCI Yeast Anticancer Drug Screen. Data for the rad50EPP+ strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is rad50EPP+ 
+Source: DTP/NCI
+AID: 151
+
+77. NCI Yeast Anticancer Drug Screen. Data for the mgt1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is mgt1 
+Source: DTP/NCI
+AID: 153
+
+78. NCI Yeast Anticancer Drug Screen. Data for the rad50 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is rad50 
+Source: DTP/NCI
+AID: 155
+
+79. NCI Yeast Anticancer Drug Screen. Data for the mec2-1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is mec2-1 
+Source: DTP/NCI
+AID: 157
+
+80. NCI Yeast Anticancer Drug Screen. Data for the rad14 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is rad14 
+Source: DTP/NCI
+AID: 159
+
+81. NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is sgs1 mgt1 
+Source: DTP/NCI
+AID: 161
+
+82. NCI Yeast Anticancer Drug Screen. Data for the CLN2oe strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is CLN2oe 
+Source: DTP/NCI
+AID: 163
+
+83. NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is cln2 rad14 
+Source: DTP/NCI
+AID: 165
+
+84. NCI Yeast Anticancer Drug Screen. Data for the bub3 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is bub3 
+Source: DTP/NCI
+AID: 167
+
+85. NCI Yeast Anticancer Drug Screen. Data for the wt2 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is wt2 
+Source: DTP/NCI
+AID: 169
+
+86. NCI Yeast Anticancer Drug Screen. Data for the mlh1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is mlh1 
+Source: DTP/NCI
+AID: 171
+
+87. NCI Yeast Anticancer Drug Screen. Data for the sgs1 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is sgs1 
+Source: DTP/NCI
+AID: 173
+
+88. NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is mlh1 rad18 
+Source: DTP/NCI
+AID: 175
+
+89. NCI Yeast Anticancer Drug Screen. Data for the rad18 strain
+Growth inhibition of yeast strains with defined genetic alterations is measured as a screen for potential anti-cancer activity. Selected strains with alterations in DNA damage repair or cell cycle control were exposed to compounds and growth inhibition was measured relative to vehicle treated controls. The strain used in this assay is rad18 
+Source: DTP/NCI
+AID: 177
+
+90. NCI AIDS Antiviral Assay [Confirmatory]
+The ability of compounds to protect human CEM cells from HIV-1 infection is measured as a screen for new compounds capable of inhibiting the HIV virus. Five concentrations of drug were tested on uninfected and infected cells and cell growth was measured using a soluble formazan assay. The dose response curve for the uninfected cells was used to calculate an IC50, the concentration of drug that causes 50% inhibition of growth (a measure of toxicity). The dose respose curve for the infected cells was used to calculate an EC50, the concentration of drug that provides 50% protection from the growth inhibition caused by the HIV virus. Compounds that provided at least 50% protection were retested. Compounds that provided at least 50% protection on retest were listed as moderately active. Compounds that reproducibly provided 100% protection were listed as confirmed active. COmpounds not meeting these criteria were listed as confirmed inactive. Note that the inability to provide protection could be due to toxicity. 
+Source: DTP/NCI
+AID: 179
+
+91. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Adenocarcinoma 755 (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Adenocarcinoma 755 (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 180
+
+92. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to Adriamycin; NSC 123127, Developed at Scr 06 and 41 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to Adriamycin; NSC 123127, Developed at Scr 06 and 41 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 182
+
+93. NCI In Vivo Anticancer Drug Screen. Data for tumor model  ADJ-PC-6 (intraperitoneal) in BALB/cJ mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is ADJ-PC-6 (intraperitoneal) in BALB/cJ mice 
+Source: DTP/NCI
+AID: 184
+
+94. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Nontumored Animals (Toxicity Test) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Nontumored Animals (Toxicity Test) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 186
+
+95. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Nontumored Animals (Toxicity Test) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Nontumored Animals (Toxicity Test) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 188
+
+96. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphoma AKR (Transplanted) (intraperitoneal) in AKR/Lw mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphoma AKR (Transplanted) (intraperitoneal) in AKR/Lw mice 
+Source: DTP/NCI
+AID: 190
+
+97. NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is B16 Melanoma (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 192
+
+98. NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is B16 Melanoma (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 194
+
+99. NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intracerebral) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is B16 Melanoma (intracerebral) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 196
+
+100. NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in C57BL/6 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is B16 Melanoma (intraperitoneal) in C57BL/6 mice 
+Source: DTP/NCI
+AID: 198
+
+101. NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in B6C3F1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is B16 Melanoma (intraperitoneal) in B6C3F1 mice 
+Source: DTP/NCI
+AID: 200
+
+102. NCI In Vivo Anticancer Drug Screen. Data for tumor model  HT29;CX-1 Human Adenocarcinoma (MER+) (subcutaneous) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is HT29;CX-1 Human Adenocarcinoma (MER+) (subcutaneous) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 202
+
+103. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P288 Lymphocytic Leukemia resistant to methotrexate; NSC 740 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P288 Lymphocytic Leukemia resistant to methotrexate; NSC 740 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 204
+
+104. NCI In Vivo Anticancer Drug Screen. Data for tumor model  HT29;CX-1 Human Adenocarcinoma (MER+) (intrarenal inoculation) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is HT29;CX-1 Human Adenocarcinoma (MER+) (intrarenal inoculation) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 206
+
+105. NCI In Vivo Anticancer Drug Screen. Data for tumor model  HT29;CX-1 Human Adenocarcinoma (MER+) (intrarenal inoculation) in NU/NU BALB/C (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is HT29;CX-1 Human Adenocarcinoma (MER+) (intrarenal inoculation) in NU/NU BALB/C (nude) mice 
+Source: DTP/NCI
+AID: 208
+
+106. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Colon 26 Adenocarcinoma (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Colon 26 Adenocarcinoma (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 210
+
+107. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Colon Carcinoma 38 (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Colon Carcinoma 38 (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 212
+
+108. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Colon Carcinoma 38 (subcutaneous) in B6C3F1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Colon Carcinoma 38 (subcutaneous) in B6C3F1 mice 
+Source: DTP/NCI
+AID: 214
+
+109. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P288 Lymphocytic Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P288 Lymphocytic Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 216
+
+110. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Adenocarcinoma 755 (subcutaneous) in C57BL/6 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Adenocarcinoma 755 (subcutaneous) in C57BL/6 mice 
+Source: DTP/NCI
+AID: 218
+
+111. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Mammary Adenocarcinoma CD8F1 (subcutaneous) in CD8F1
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Mammary Adenocarcinoma CD8F1 (subcutaneous) in CD8F1 
+Source: DTP/NCI
+AID: 220
+
+112. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Ependymoblastoma (intracerebral) in C57BL/6 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Ependymoblastoma (intracerebral) in C57BL/6 mice 
+Source: DTP/NCI
+AID: 222
+
+113. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P335 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P335 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 224
+
+114. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Ependymoblastoma (intracerebral) in B6C3F1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Ependymoblastoma (intracerebral) in B6C3F1 mice 
+Source: DTP/NCI
+AID: 226
+
+115. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Friend Virus Leukemia (Solid) (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Friend Virus Leukemia (Solid) (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 228
+
+116. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphosarcoma Gardner 6C3HED (intraperitoneal) in C3H/He mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphosarcoma Gardner 6C3HED (intraperitoneal) in C3H/He mice 
+Source: DTP/NCI
+AID: 230
+
+117. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphosarcoma Gardner 6C3HED (intraperitoneal) in C3AKF1 (CHKRF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphosarcoma Gardner 6C3HED (intraperitoneal) in C3AKF1 (CHKRF1) mice 
+Source: DTP/NCI
+AID: 232
+
+118. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Cystadenocarcinoma, Liver (No. 1) (Hamster) (subcutaneous) in C3AKF1 (CHKRF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Cystadenocarcinoma, Liver (No. 1) (Hamster) (subcutaneous) in C3AKF1 (CHKRF1) mice 
+Source: DTP/NCI
+AID: 234
+
+119. NCI In Vivo Anticancer Drug Screen. Data for tumor model  AK4 Lymphoid Leukemia (intraperitoneal) in C3AKF1 (CHKRF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is AK4 Lymphoid Leukemia (intraperitoneal) in C3AKF1 (CHKRF1) mice 
+Source: DTP/NCI
+AID: 236
+
+120. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Leiomyosarcoma (No. 2) (intraperitoneal) in CAF1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Leiomyosarcoma (No. 2) (intraperitoneal) in CAF1 mice 
+Source: DTP/NCI
+AID: 238
+
+121. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphoma 4 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphoma 4 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 240
+
+122. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphoma 8 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphoma 8 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 242
+
+123. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphoma 8 (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphoma 8 (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 244
+
+124. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P1081 Chloroleukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P1081 Chloroleukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 246
+
+125. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 248
+
+126. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 250
+
+127. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intracerebral) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (intracerebral) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 252
+
+128. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intravenous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (intravenous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 254
+
+129. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 256
+
+130. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (subcutaneous) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (subcutaneous) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 258
+
+131. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intracerebral) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia (intracerebral) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 260
+
+132. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Lung LX-1 Xenograft (subcutaneous) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Lung LX-1 Xenograft (subcutaneous) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 262
+
+133. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Lung LX-1 Xenograft (intrarenal inoculation) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Lung LX-1 Xenograft (intrarenal inoculation) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 264
+
+134. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Lung LX-1 Xenograft (intrarenal inoculation) in NU/NU BALB/C (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Lung LX-1 Xenograft (intrarenal inoculation) in NU/NU BALB/C (nude) mice 
+Source: DTP/NCI
+AID: 266
+
+135. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P1798 Lymphosarcoma (subcutaneous) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P1798 Lymphosarcoma (subcutaneous) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 268
+
+136. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lewis Lung Carcinoma (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lewis Lung Carcinoma (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 270
+
+137. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lewis Lung Carcinoma (intramuscular) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lewis Lung Carcinoma (intramuscular) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 272
+
+138. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lewis Lung Carcinoma (intravenous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lewis Lung Carcinoma (intravenous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 274
+
+139. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lewis Lung Carcinoma (intravenous) in B6C3F1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lewis Lung Carcinoma (intravenous) in B6C3F1 mice 
+Source: DTP/NCI
+AID: 276
+
+140. NCI In Vivo Anticancer Drug Screen. Data for tumor model  A549 Human Adenocarcinoma of Lung with characteristics of Type II Alveolar Epithelial cells (intrarenal inoculation) in NU/NU BALB/C (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is A549 Human Adenocarcinoma of Lung with characteristics of Type II Alveolar Epithelial cells (intrarenal inoculation) in NU/NU BALB/C (nude) mice 
+Source: DTP/NCI
+AID: 278
+
+141. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Amelanotic Melanoma (LOX) (intraperitoneal) in NU/NU BALB/C (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Amelanotic Melanoma (LOX) (intraperitoneal) in NU/NU BALB/C (nude) mice 
+Source: DTP/NCI
+AID: 280
+
+142. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia resistant to A Terephthalanilide; NSC 38280 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia resistant to A Terephthalanilide; NSC 38280 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 282
+
+143. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia resistant to Methotrexate; NSC 740 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia resistant to Methotrexate; NSC 740 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 284
+
+144. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Sarcoma M5076 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Sarcoma M5076 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 286
+
+145. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Sarcoma M5076 (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Sarcoma M5076 (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 288
+
+146. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P1798 Lymphosarcoma (subcutaneous) in unknown mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P1798 Lymphosarcoma (subcutaneous) in unknown mice 
+Source: DTP/NCI
+AID: 290
+
+147. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Sarcoma M5076 (intraperitoneal) in B6C3F1 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Sarcoma M5076 (intraperitoneal) in B6C3F1 mice 
+Source: DTP/NCI
+AID: 292
+
+148. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Mammary Carcinoma MX-1 Xenograft (subcutaneous) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Mammary Carcinoma MX-1 Xenograft (subcutaneous) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 294
+
+149. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Mammary Carcinoma MX-1 Xenograft (intrarenal inoculation) in NU/NU Swiss (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Mammary Carcinoma MX-1 Xenograft (intrarenal inoculation) in NU/NU Swiss (nude) mice 
+Source: DTP/NCI
+AID: 296
+
+150. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Human Mammary Carcinoma MX-1 Xenograft (intrarenal inoculation) in NU/NU BALB/C (nude) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Human Mammary Carcinoma MX-1 Xenograft (intrarenal inoculation) in NU/NU BALB/C (nude) mice 
+Source: DTP/NCI
+AID: 298
+
+151. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Madison 109 Lung Carcinoma (intramuscular) in unknown mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Madison 109 Lung Carcinoma (intramuscular) in unknown mice 
+Source: DTP/NCI
+AID: 300
+
+152. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Madison 109 Lung Carcinoma (intramuscular) in BALB/CM mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Madison 109 Lung Carcinoma (intramuscular) in BALB/CM mice 
+Source: DTP/NCI
+AID: 302
+
+153. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lymphosarcoma Mecca (intraperitoneal) in C3AKF1 (CHKRF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lymphosarcoma Mecca (intraperitoneal) in C3AKF1 (CHKRF1) mice 
+Source: DTP/NCI
+AID: 304
+
+154. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia resistant to Methyl-GAG; NSC 32946 (subcutaneous) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia resistant to Methyl-GAG; NSC 32946 (subcutaneous) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 306
+
+155. NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia resistant to 6-MP and 6-Thioguanine; NSC 755, NSC 752 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is L1210 Leukemia resistant to 6-MP and 6-Thioguanine; NSC 755, NSC 752 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 308
+
+156. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Osteogenic Sarcoma HE 10734 (subcutaneous) in C3AKF1 (CHKRF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Osteogenic Sarcoma HE 10734 (subcutaneous) in C3AKF1 (CHKRF1) mice 
+Source: DTP/NCI
+AID: 310
+
+157. NCI In Vivo Anticancer Drug Screen. Data for tumor model  C1498 Myeloid Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is C1498 Myeloid Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 312
+
+158. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P1534 Leukemia (intraperitoneal) in DBA/2 mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P1534 Leukemia (intraperitoneal) in DBA/2 mice 
+Source: DTP/NCI
+AID: 314
+
+159. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P1534 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P1534 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 316
+
+160. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P815 Mast Cell Leukemia (Ascitic) (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P815 Mast Cell Leukemia (Ascitic) (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 318
+
+161. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P329 Reticulum Cell Sarcoma (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P329 Reticulum Cell Sarcoma (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 320
+
+162. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to Adriamycin; NSC 123127, Developed at Scr 08 (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to Adriamycin; NSC 123127, Developed at Scr 08 (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 322
+
+163. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to AMSA; NSC 249992 (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to AMSA; NSC 249992 (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 324
+
+164. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to Dihydroxy Anthracenedione; NSC 299195 (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to Dihydroxy Anthracenedione; NSC 299195 (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 326
+
+165. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 328
+
+166. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 330
+
+167. NCI In Vivo Anticancer Drug Screen. Data for tumor model  ADJ-PC-20 Plasma Cell (subcutaneous) in unknown mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is ADJ-PC-20 Plasma Cell (subcutaneous) in unknown mice 
+Source: DTP/NCI
+AID: 332
+
+168. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intracerebral) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia (intracerebral) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 334
+
+169. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to Vincristine; NSC 67574 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to Vincristine; NSC 67574 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 336
+
+170. NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia resistant to A Terephthalanilide; NSC 38280 (intraperitoneal) in B6D2F1 (BDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is P388 Leukemia resistant to A Terephthalanilide; NSC 38280 (intraperitoneal) in B6D2F1 (BDF1) mice 
+Source: DTP/NCI
+AID: 338
+
+171. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Reticulum Cell Sarcoma (Kelley Mouse) (intraperitoneal) in CD2F1 (CDF1) mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Reticulum Cell Sarcoma (Kelley Mouse) (intraperitoneal) in CD2F1 (CDF1) mice 
+Source: DTP/NCI
+AID: 340
+
+172. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Sarcoma 180 (subcutaneous) in Swiss mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Sarcoma 180 (subcutaneous) in Swiss mice 
+Source: DTP/NCI
+AID: 342
+
+173. NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lieberman Plasma Cell No. 1 (LPC-1) (intraperitoneal) in unknown mice
+The antitumor activity of compounds was measured in mice bearing transplantable tumors. Survival or tumor size were measured and the results are expressed as the measurement made in the treated group (T) divided by the measurement made in the vehicle treated control group (C). The tumor model used in this assay is Lieberman Plasma Cell No. 1 (LPC-1) (intraperitoneal) in unknown mice 
+Source: DTP/NCI
+AID: 344
+
+
