@@ -5,7 +5,8 @@
 
 import os, re
 
-basefolder = "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/"
+#basefolder = "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/"
+basefolder = '../'
 molfilesfolder = basefolder + "molfiles/"
 smifilesfolder = basefolder + "smifiles/"
 actfilesfolder = basefolder + "/DTPNCI2015/"
