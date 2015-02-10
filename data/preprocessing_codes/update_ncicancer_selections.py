@@ -69,6 +69,6 @@ def clean():
 if __name__ == "__main__":	
 	check_molfiles()
 	check_selections()
-	separate_datasets()
+	#separate_datasets()
 	#clean()
 

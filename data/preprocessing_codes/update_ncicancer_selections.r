@@ -32,6 +32,7 @@ for(i in c(1:length(act.new.1[,1])))
         else
         {add = rbind(add, act.new.1[i,])}
 }
+act.new.2 = rbind(act.new.2,add)
 
 # get targets
 act = act.new.2
@@ -48,6 +49,7 @@ for(i in c(2:length(act[,1])))
 		{tar[i,j] = -1}
 	}
 }
+
 
 # all data
 act.all = act
