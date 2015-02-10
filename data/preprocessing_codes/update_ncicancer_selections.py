@@ -46,8 +46,9 @@ def get_input_files(suffix):
 	destarfile = actfilesfolder + "target" + suffix
 	
 	os.system("head -1 %s |sed 's/0 //' > %s" % (desactfile, actfilesfolder + 'results/ncicancer_aids'))
-	os.system("less %s | sed -e'/^0 /d' -e's/ .*//' > %s" % (destarfile, actfilesfolder + 'results/ncicancer_labels' + suffix))
-	os.system("less %s | sed -e'/^0 /d' -e's/\([0-9]\)* //' > %s" % (destarfile, actfilesfolder + 'results/ncicancer_targets' + suffix))
+	os.system("less %s | sed -e'/^0 /d' -e's/ .*//' > %s" % (destarfile, actfilesfolder + 'results/ncicancer_labels'))
+	os.system("less %s | sed -e'/^0 /d' -e's/\([0-9]\)* //' > %s" % (destarfile, actfilesfolder + 'results/ncicancer_targets'))
+	os.system("less %s | sed -e'/^0 /d' -e's/\([0-9]\)* //' > %s" % (desactfile, actfilesfolder + 'results/ncicancer_activities'))
 	
 	
 
@@ -69,6 +70,6 @@ def clean():
 if __name__ == "__main__":	
 	check_molfiles()
 	check_selections()
-	#separate_datasets()
+	separate_datasets()
 	#clean()
 
