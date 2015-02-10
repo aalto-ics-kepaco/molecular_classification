@@ -53,7 +53,6 @@ def single_thread(node,job):
     logging.info(" %s-<%s" % (node, job_id))
     job_queue.put((job))
   pass
-  #babeldir ./molfiles/$molfile.sdf -ofpt -xfFP2 > ./molfilefeatures/${molfile}_hf.fpt
 
 
 def compute_fingerprints_in_parallel():
@@ -73,7 +72,7 @@ def compute_fingerprints_in_parallel():
   job_id = 0
   job_size = 1
   for molecule in moleculelist:
-    if os.path.exists("%s%s.fp"):
+    if os.path.exists("%s%s.fp" % (fppath,molecule)):
       continue
     job_id = job_id + 1
     job_content=molecule
@@ -84,10 +83,14 @@ def compute_fingerprints_in_parallel():
   logging.info("In total %d jobs" % job_size)
   loadpernode = 8
   threads = []
+  counter = 0
   for node in cluster:
     for i in range(loadpernode):
       t = Worker(job_queue, node)
-      time.sleep(1)
+      time.sleep(0.5)
+      counter = counter +1
+      if counter > job_size:
+        break
       try:
         t.start()
         threads.append(t)
