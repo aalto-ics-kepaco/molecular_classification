@@ -26,5 +26,7 @@
 -. We notice that the activity score is computed according -10*log(GI50). We still need binary value as the activity outcome for classification task. According to NCBI, a molecule is 'active' if the activity score is over(>=) 60 and 'inactive' otherwise.
 
 <Compute Kernel>
--. To measure the similaries between molecule and to use kernel based methods, we need to compute the kernel matrix.
--.  
+-. To measure the similaries between molecules and to use kernel based methods, we need to compute the m by m kernel matrix.
+-. The kernels we will be using include figureprint-Tanimoto kernel.
+-. Figureprint-Tanimoto kernel:
+        -.  
