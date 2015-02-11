@@ -44,13 +44,14 @@
 
 < Results >
 -. List of files generated from preprocessing:
-
         ./DTPNCI2015/results/ncicancer_activities       m by k matrix of activity scores
         ./DTPNCI2015/results/ncicancer_aids             1 by k matrix of cell line AIDs
         ./DTPNCI2015/results/ncicancer_features         m by d matrix of figureprint features for each molecules
         ./DTPNCI2015/results/ncicancer_labels           m by 1 matrix of molecule NSC IDs
         ./DTPNCI2015/results/ncicancer_targets          m by k matrix of activity outcomes
         ./DTPNCI2015/results/ncicancer_kernel           m by m kernel matrix, m=5000 
+-. The kernel file is not in the GitHub due to the size limit.
+-. These are inputs to the kernel based learning algorithms.
 
 
 < Scripts >
