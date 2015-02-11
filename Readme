@@ -1,0 +1,8 @@
+
+
+
+-. When use the processed data, please cite the following papers:
+        Su, Hongyu; Rousu, Juho. Multilabel Classification through Random Graph Ensembles. Machine Learning, DOI: 10.1007/s10994-014-5465-9.
+        Su, Hongyu; Heinonen, Markus; Rousu, Juho. Structured Output Prediction of Anti-cancer Drug Activity. In Proceedings of the 5th International Conference on Pattern Recognition in Bioinformatics (PRIB 2010), Springer Lecture Note in Computer Science (LNCS) 6282:265--273.
+
+-. Please refer to ./data/Readme for more information about molecular activity data.
