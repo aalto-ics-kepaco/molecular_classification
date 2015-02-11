@@ -49,9 +49,11 @@ sub get_tanimoto
 	#calculate kernel
 	open(OUT, ">$tempfilename") or die;
 	#@features = ();$features[0] = '111000101';$features[1] = '0';
-	for($i = 0; $i < scalar(@features); $i ++)
+        for($i = 0; $i < scalar(@features); $i ++)
+        #for($i = 0; $i < 10; $i ++)
 	{
-		for($j = 0; $j < scalar(@features); $j ++)
+                for($j = 0; $j < scalar(@features); $j ++)
+                #for($j = 0; $j < 10; $j ++)
 		{
 			if($i > $j)
 			{print OUT "0"}
@@ -78,7 +80,8 @@ sub get_tanimoto
 				{printf OUT "\%.4f", $c/($a + $b - $c);}
 			}
 
-			if($j == scalar(@features) - 1)
+                        if($j == scalar(@features) - 1)
+                        #if($j == 10 - 1)
 			{print OUT "\n"}
 			else
 			{print OUT " "}
@@ -87,7 +90,7 @@ sub get_tanimoto
 	close(OUT);
 
 	# complete the bottom part of the matrix
-	system(sprintf("cat get_tanimoto_kernel_helper.r | R --slave --args '%s'", $tempfilename));
+	system(sprintf("cat complete_tanimoto_kernel_matrix.r | R --slave --args '%s'", $tempfilename));
 
 	# write to file
 	open(OUT, ">$kernelfilename") or die;
@@ -100,6 +103,6 @@ sub get_tanimoto
 	close(OUT);
 
 	# remove temp file
-	`rm $tempfilename`;
+        #`rm $tempfilename`;
 	
 }
