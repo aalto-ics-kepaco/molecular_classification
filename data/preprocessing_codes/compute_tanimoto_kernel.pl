@@ -49,11 +49,11 @@ sub get_tanimoto
 	#calculate kernel
 	open(OUT, ">$tempfilename") or die;
 	#@features = ();$features[0] = '111000101';$features[1] = '0';
-        for($i = 0; $i < scalar(@features); $i ++)
-        #for($i = 0; $i < 10; $i ++)
+        #for($i = 0; $i < scalar(@features); $i ++)
+        for($i = 0; $i < 5000; $i ++)
 	{
-                for($j = 0; $j < scalar(@features); $j ++)
-                #for($j = 0; $j < 10; $j ++)
+                #for($j = 0; $j < scalar(@features); $j ++)
+                for($j = 0; $j < 5000; $j ++)
 		{
 			if($i > $j)
 			{print OUT "0"}
@@ -80,8 +80,8 @@ sub get_tanimoto
 				{printf OUT "\%.4f", $c/($a + $b - $c);}
 			}
 
-                        if($j == scalar(@features) - 1)
-                        #if($j == 10 - 1)
+                        #if($j == scalar(@features) - 1)
+                        if($j == 5000 - 1)
 			{print OUT "\n"}
 			else
 			{print OUT " "}
@@ -103,6 +103,6 @@ sub get_tanimoto
 	close(OUT);
 
 	# remove temp file
-        #`rm $tempfilename`;
+        `rm $tempfilename`;
 	
 }

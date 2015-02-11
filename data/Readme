@@ -36,10 +36,8 @@
                 -. The scripts for fingerprint computation and parallelization can be found from the project folder.
         -. The next step is to compute the Tanimoto kernel based on the fingerprints. 
                 -. Tanimoto kernel function is defined on two binary bit vectors. See https://en.wikipedia.org/wiki/Jaccard_index for more information.
-                -. As the logic operations on two long bit vectors are not cheap. One might resort to Perl or Bash programming which allows fast processing of the strings. The scripts can be found from project folder.
-
-
-
+                -. As the boolean operations (and, or) on two long bit vectors are not cheap. Perl or Bash programmings are recommended which allow fast processing on strings. In particular, Perl scripts can be found from project folder.
+                -. Notice that we do not need the kernel for all 40,000 molecule. We only need the kernel for the 4,000 molecules which have complete activity over 60 cancer cell lines.
 
 
 
@@ -60,3 +58,4 @@
         compute_fp_feature_matrix.py
         compute_tanimoto_kernel.pl
         complete_tanimoto_kernel_matrix.r
+
