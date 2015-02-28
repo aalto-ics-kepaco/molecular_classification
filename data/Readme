@@ -43,7 +43,7 @@
                 -. Notice that we do not need the kernel for all 40,000 molecule. We only need the kernel for the 4,000 molecules which have complete activity over 60 cancer cell lines.
 
 
-< Results >
+< Result files >
 -. List of files generated from preprocessing:
         ./DTPNCI2015/results/ncicancer_activities       m by k matrix of activity scores
         ./DTPNCI2015/results/ncicancer_aids             1 by k matrix of cell line AIDs
@@ -65,10 +65,10 @@
         update_ncicancer_selections.py
         update_ncicancer_selections.r
 
-        # Compute for each molecule a fingerprint vector
+        # Compute for each molecule a fingerprint vector, note that you need to modify the code a little in order to computer fp3 and fp3 features.
         compute_fingerprint_parallel.py
 
-        # Based on the computed fingerprints, construct Fingerprint-Tanimoto kernel
+        # Based on the computed fingerprints, construct Fingerprint-Tanimoto kernel, note that you need to modify the code a little in order to compute the kernel for fp3 and fp4 features.
         compute_fp_feature_matrix.py
         compute_tanimoto_kernel.pl
         complete_tanimoto_kernel_matrix.r

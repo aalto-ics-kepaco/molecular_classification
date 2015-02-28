@@ -30,7 +30,7 @@ def get_babel_features(srcfolder, labelfile, featurefile):
 	mollist = []
 	fin = open(labelfile)
 	for line in fin:
-		mollist.append(line.strip()+'.fp')
+		mollist.append(line.strip()+'.fp3')
 	fin.close()
         #
 	print "Parse results and write to one file ..."
@@ -45,8 +45,8 @@ def get_babel_features(srcfolder, labelfile, featurefile):
 if __name__ == '__main__':
 	srcfolder = "../structures/FPfiles/" #sys.argv[1]
 	labelfile = "../DTPNCI2015/results/ncicancer_labels" #sys.argv[2]
-	featurefile = "../DTPNCI2015/results/ncicancer_features" #sys.argv[3]
-	kernelfile = "../DTPNCI2015/results/ncicancer_kernel" #sys.argv[3]
+	featurefile = "../DTPNCI2015/results/ncicancer_features_fp3" #sys.argv[3]
+	kernelfile = "../DTPNCI2015/results/ncicancer_kernel_fp3" #sys.argv[3]
 	#get_babel_features(srcfolder, labelfile, featurefile)
         os.system("perl compute_tanimoto_kernel.pl %s %s" % (featurefile,kernelfile))
 	

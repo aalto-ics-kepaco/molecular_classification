@@ -47,7 +47,7 @@ def single_thread(node,job):
   logging.info(" %s->%s" % (node, job_id))
   try:
     #print("ssh -o StrictHostKeyChecking=no %s '/cs/fs/home/su/softwares/openbabel/bin/babel /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf -ofpt -xfFP2 > /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/FPfiles/%s.fp'" % (node,job_content,job_content))
-    singleres = commands.getoutput("ssh -o StrictHostKeyChecking=no %s '/cs/fs/home/su/softwares/openbabel/bin/babel /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf -ofpt -xfFP3 > /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/FPfiles/%s.fp3'" % (node,job_content,job_content))
+    singleres = commands.getoutput("ssh -o StrictHostKeyChecking=no %s '/cs/fs/home/su/softwares/openbabel/bin/babel /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf -ofpt -xfFP4 > /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/FPfiles/%s.fp4'" % (node,job_content,job_content))
     logging.info(" %s-|%s" % (node, job_id))
   except:
     logging.info(" %s-<%s" % (node, job_id))
@@ -72,7 +72,7 @@ def compute_fingerprints_in_parallel():
   job_id = 0
   job_size = 1
   for molecule in moleculelist:
-    if os.path.exists("%s%s.fp3" % (fppath,molecule)):
+    if os.path.exists("%s%s.fp4" % (fppath,molecule)):
       continue
     job_id = job_id + 1
     job_content=molecule
