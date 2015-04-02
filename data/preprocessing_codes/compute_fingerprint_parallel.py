@@ -56,7 +56,7 @@ def single_thread(node,job):
     elif fp_flag == 3:
       singleres = commands.getoutput("ssh -o StrictHostKeyChecking=no %s '/cs/fs/home/su/softwares/openbabel/bin/babel /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf -ofpt -xfFP4 > /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/FPfiles/%s.fp4'" % (node,job_content,job_content))
     else:
-      singleres = commands.getoutput("""ssh -o StrictHostKeyChecking=no %s 'cat /cs/taatto/group/urenzyme/workspace/molecular_classification/data/preprocessing_codes/run_sdf_to_mat.r | R --slave --args "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf" "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/MATLABfiles/%s.mat" ' """ % (node,job_content,job_content))
+      singleres = commands.getoutput("""ssh -o StrictHostKeyChecking=no %s 'cat /cs/taatto/group/urenzyme/workspace/molecular_classification/data/preprocessing_codes/run_sdf_to_mat.r | R --slave --args "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/sdffiles/%s.sdf" "/cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/MATLABfiles/%s.mat" ; cd /cs/taatto/group/urenzyme/workspace/molecular_classification/data/preprocessing_codes/; nohup matlab -nodisplay -nodesktop -nojvm  -r "run_R_to_mat /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/MATLABfiles/%s.mat /cs/taatto/group/urenzyme/workspace/molecular_classification/data/structures/MATLABfiles/%s.mat "  ' """ % (node,job_content,job_content,job_content, job_content))
     logging.info(" %s-|%s" % (node, job_id))
   except:
     logging.info(" %s-<%s" % (node, job_id))
@@ -95,7 +95,7 @@ def compute_fingerprints_in_parallel():
     elif fp_flag==3:
       sdffilename = "%s%s.fp4" % (fppath,molecule)
     else:
-      sdffilename = "%s%s.mat" % (fppath,molecule)
+      sdffilename = "%s%s.mat2" % (fppath,molecule)
     if os.path.exists(sdffilename):
       continue
     job_id = job_id + 1
@@ -131,7 +131,7 @@ def compute_fingerprints_in_parallel():
 # 2: fp3 fingerprint of Openbabel for computing Tanimoto kernel
 # 3: fp4 fingerprint of Openbabel for computing Tanimoto kernel
 # 4: covert a sdf file into a adj matrix for computing other graph kernels 
-fp_flag = 3 
+fp_flag = 4 
 compute_fingerprints_in_parallel()
 
 
