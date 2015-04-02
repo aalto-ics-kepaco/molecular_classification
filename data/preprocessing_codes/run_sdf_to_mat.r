@@ -1,4 +1,6 @@
 
+# copyright also @celine 
+
 library("ChemmineR")
 library("R.matlab")
 
