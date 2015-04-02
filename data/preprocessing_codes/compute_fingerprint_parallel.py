@@ -95,7 +95,7 @@ def compute_fingerprints_in_parallel():
     elif fp_flag==3:
       sdffilename = "%s%s.fp4" % (fppath,molecule)
     else:
-      sdffilename = "%s%s.mat2" % (fppath,molecule)
+      sdffilename = "%s%s.mat" % (fppath,molecule)
     if os.path.exists(sdffilename):
       continue
     job_id = job_id + 1
