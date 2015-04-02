@@ -48,10 +48,11 @@
 -. Graph kernels:
         -. We will use open source package (http://www.bsse.ethz.ch/mlcb/research/machine-learning/graph-kernels.html) to compute graph kernels.
         -. The first step is to convert each molecule into a adjacency matrix.
-                -. The python script compute_fingerprint_parallel.py will compute the adjacency of each molecule, and save the result as a matlab data file.
-                -. The script will run in parallel in a interactive cluster.
-                -. the script will take in a sdf file of a molecule, and output a adjacency matrix.
-        -. With all molecules in adjacency matrices, we can compute many kinds of graph kenrels. 
+                -. The python script compute_fingerprint_parallel.py will run in parallel to compute the adjacency of each molecule, and save the result as a matlab data file.
+                -. The R script run_sdf_to_matlab.r will take in a sdf file of a molecule and output an adjacency matrix in .mat file.
+                -. The Matlab script run_R_to_matlab.m will take in the adjacency matrix in .mat file and convert it to a data structure in matlab for the graph kernel package. 
+        -. With all molecules in adjacency matrices in mat file, we can compute many kinds of graph kenrels. 
+                
 
 
 < Result files >
