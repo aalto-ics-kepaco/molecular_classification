@@ -19,12 +19,12 @@ n = size(A,1); % number of nodes
 count = zeros(1,21);
 
 for i=1:n
-  for j=L{i}
-    for k=L{j}
+  for j=L{i}'
+    for k=L{j}'
       if k~=i
-        for l=L{k}
+        for l=L{k}'
           if l~=i && l~=j
-            for m=L{l}
+            for m=L{l}'
               if m~=i && m~=j && m~=k
          
                 %%% Tests: Which type of connected 5 node graphlet
@@ -145,12 +145,12 @@ for i=1:n
   end
   
   %%%% count graphlets of type 20 %%%%
-  for j=L{i}
-    for k=L{j}
+  for j=L{i}'
+    for k=L{j}'
       if k~=i && A(i,k)==0
-        for l=L{k}
+        for l=L{k}'
           if l~=i && l~=j && A(i,l)==0 && A(j,l)==0
-            for m=L{k}
+            for m=L{k}'
               if m~=i && m~=j && m~=l && A(i,m)==0 && A(j,m)==0 && A(l,m)==0
                 count(20)=count(20)+0.5;
               end

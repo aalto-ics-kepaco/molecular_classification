@@ -46,8 +46,8 @@ for g=1:N
   nl=Graphs(g).nl.values;
   Al=Graphs(g).al;
   for i=1:length(Al)
-    for j=Al{i}
-      for k=Al{j}
+    for j=Al{i}'
+      for k=Al{j}'
         if i~=k
           if A(i,k)==0
             graphlet=[1,  min(nl(i),nl(k)),  nl(j),   max(nl(i),nl(k))];

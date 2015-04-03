@@ -53,7 +53,11 @@ for i=1:N
   a=min(labels_aux, labels_aux');
   b=max(labels_aux, labels_aux');
   I=triu(~(isinf(Ds{i})));
-  Ind=Ds{i}(I)*L*(L+1)/2+(a(I)-1).*(2*L+2-a(I))/2+b(I)-a(I)+1;
+x1 = Ds{i}(I)*L*(L+1)/2;
+x2 = (a(I)-1).*(2*L+2-a(I))/2;
+x3 = b(I)-a(I)+1;
+Ind = sum([x1,x2,x3],2);
+  %Ind=Ds{i}(I)*L*(L+1)/2+(a(I)-1).*(2*L+2-a(I))/2+b(I)-a(I)+1;
   aux=accumarray(Ind,ones(nnz(I),1));
   sp(Ind,i)=aux(Ind);
 end

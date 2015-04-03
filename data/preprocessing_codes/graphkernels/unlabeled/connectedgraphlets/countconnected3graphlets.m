@@ -16,8 +16,8 @@ n = size(A,1); % number of nodes
 count = zeros(1,2);
 
 for i=1:n
-  for j=L{i}
-    for k=L{j}	
+  for j=L{i}'
+    for k=L{j}'	
       if k~=i
         if A(i,k)==1
           count(2)=count(2)+w(2);

@@ -17,10 +17,10 @@ n = size(A,1); % number of nodes
 count = zeros(1,6);
 
 for i=1:n
-  for j=L{i}
-    for k=L{j}	
+  for j=L{i}'
+    for k=L{j}'	
       if k~=i
-        for l=L{k}
+        for l=L{k}'
           if l~=i && l~=j
             aux = A(i,k)+A(i,l)+A(j,l);
             if aux==3 % if there are 6 edges in the graphlet, then it
