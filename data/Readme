@@ -59,17 +59,37 @@
 
 
 < Result files >
+-. Notations
+        m       the number of examples (molecular structures)
+        k       the number of labels (cancer cell lines)
+        d       the number of features (fingerprints)
+
 -. List of files generated from preprocessing:
+        ./DTPNCI2014/activity_complete                  all molecules with all activities in all cell lines
+        ./DTPNCI2014/activity_complete_structurefilter  all molecules with structural information with all activities in all cell lines
+        ./DTPNCI2014/activity_processed                 arrange molecules and activities 
+        ./DTPNCI2014/target_processed                   activity outcomes in the same order with activity_processed 
         ./DTPNCI2015/results/ncicancer_activities       m by k matrix of activity scores
         ./DTPNCI2015/results/ncicancer_aids             1 by k matrix of cell line AIDs
         ./DTPNCI2015/results/ncicancer_features         m by d matrix of figureprint features for each molecules
         ./DTPNCI2015/results/ncicancer_labels           m by 1 matrix of molecule NSC IDs
         ./DTPNCI2015/results/ncicancer_targets          m by k matrix of activity outcomes
-        ./DTPNCI2015/results/ncicancer_kernel           m by m kernel matrix, m=5000 
-        ./DTPNCI2015/results/ncicancer_kernel_fpk       m by m kernel matrix of other fingerprint kernels, m=5000 
+        ./DTPNCI2015/results/ncicancer_kernel           m by m kernel matrix with fp2 fingerprint feature, m=5000 
+        ./DTPNCI2015/results/ncicancer_kernel_fpk       m by m kernel matrix of other two fingerprint kernels, m=5000 
         ./DTPNCI2015/results/ncicancer_kernel_graph_*   m by m graph kernel matrix, m=5000 
 -. The kernel file is not in the GitHub due to the size limit.
 -. These are inputs to the kernel based learning algorithms.
+-. All kernel matrices are normalized such that values on diagonal are all one.
+-. It is recommanded to center the kernel matrix. 
+-. List of other files during preprocessing (e.g. structure files, fingerprint files)
+	./structures/FPfile_list                list of generated fp2 fingerprint files
+	./structures/FPfile_list_fp3            list of generated fp3 fingerprint files
+	./structures/FPfile_list_fp4            list of generated fp4 fingerprint files
+	./structures/FPfiles/                   all fp2, fp3, and fp4 fingerprint files
+	./structures/MATLABfile_list            list of .mat files (adjacency matrix for each molecule) 
+	./structures/MATLABfiles/               all .mat files
+	./structures/sdffile_list               list of .sdf structure files
+	./structures/sdffiles/                  all .sdf structure file
 
 
 < Scripts >
@@ -82,17 +102,24 @@
         update_ncicancer_selections.py
         update_ncicancer_selections.r
 
-        # Compute for each molecule a fingerprint vector, note that you need to modify the code in order to computer fp3 and fp3 features.
+        # Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
+        # You need to modify the code in order to computer fp3 and fp3 features.
         # The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
         compute_fingerprint_parallel.py
+        run_R_to_mat.m
+        run_sdf_to_mat.r
 
-        # Based on the computed fingerprints, construct Fingerprint-Tanimoto kernel, note that you need to modify the code a little in order to compute the kernel for fp3 and fp4 features.
+        # Based on the computed fingerprints, construct Fingerprint-Tanimoto kernel. You need to modify the code in order to compute the Fingerprint-Tanimoto kernel for fp3 and fp4 features.
         compute_fp_feature_matrix.py
         compute_tanimoto_kernel.pl
         complete_tanimoto_kernel_matrix.r
 
         # Based on generated adjacency matrces of molecules, compute different kinds of graph kernels.
-        # Graph kernel computation is based on a Matlab toolbox. The Python script enable the parallel computation in an interactive computer cluster.
+        # Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster.
         compute_graph_kernels.m
         compute_graph_kernels.py
+
+
+
+
 
