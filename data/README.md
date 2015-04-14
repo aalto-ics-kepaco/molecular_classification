@@ -12,9 +12,9 @@
 
 3. The goad here is to better understand the structure of the data source and to validate the processed data.
 
-..1. Go to (http://www.ncbi.nlm.nih.gov/pcassay) and search with keywords 'DTP/NCI'.
+  1. Go to (http://www.ncbi.nlm.nih.gov/pcassay) and search with keywords 'DTP/NCI'.
 
-..2. Download the list of cellline AIDs that correspond to the celllines in DTP/NCI project and save AIDs to the file:../DTPNCI2015/otherfiles/pcassay.
+  2. Download the list of cellline AIDs that correspond to the celllines in DTP/NCI project and save AIDs to the file:../DTPNCI2015/otherfiles/pcassay.
 
 ..3. For each cell line, download its data file from ftp://ftp.ncbi.nlm.nih.gov/pubchem/Bioassay/CSV/Data/0000001_0001000.zip according to its AID. This will be a zip file covers all cell line data files in DTP/NCI project. 
 ..4. Each cell line data file will contain a list of compounds with their test activities in this cell line. Take a look at cell line AID-109 (https://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid=109) to have a better understanding of the data.
