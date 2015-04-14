@@ -156,12 +156,12 @@
 
   1. Update activity files of NCI cancer cell lines
 
-        update_ncicancer_actfiles.py
+        ./preprocessing_codes/update_ncicancer_actfiles.py
 
   2. Select molecules and arrange the activity score matrix
 
-        update_ncicancer_selections.py
-        update_ncicancer_selections.r
+        ./preprocessing_codes/update_ncicancer_selections.py
+        ./preprocessing_codes/update_ncicancer_selections.r
 
   3. Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
 
@@ -169,22 +169,22 @@
   
      The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
 
-        compute_fingerprint_parallel.py
-        run_R_to_mat.m
-        run_sdf_to_mat.r
+        ./preprocessing_codes/compute_fingerprint_parallel.py
+        ./preprocessing_codes/run_R_to_mat.m
+        ./preprocessing_codes/run_sdf_to_mat.r
 
   6. Based on the computed fingerprints, construct Fingerprint-Tanimoto kernel. You need to modify the code in order to compute the Fingerprint-Tanimoto kernel for fp3 and fp4 features.
 
-        compute_fp_feature_matrix.py
-        compute_tanimoto_kernel.pl
-        complete_tanimoto_kernel_matrix.r
+        ./preprocessing_codes/compute_fp_feature_matrix.py
+        ./preprocessing_codes/compute_tanimoto_kernel.pl
+        ./preprocessing_codes/complete_tanimoto_kernel_matrix.r
 
   7. Based on generated adjacency matrces of molecules, compute different kinds of graph kernels.
 
      Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster.
 
-        compute_graph_kernels.m
-        compute_graph_kernels.py
+        ./preprocessing_codes/compute_graph_kernels.m
+        ./preprocessing_codes/compute_graph_kernels.py
 
 
 
