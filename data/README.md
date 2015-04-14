@@ -150,7 +150,9 @@
 
 
 **Scripts**
--. List of preprocessing scripts, in the order of preprocessing:
+--
+
+1. List of preprocessing scripts, in the order of preprocessing:
 
         # Update activity files of NCI cancer cell lines
         update_ncicancer_actfiles.py
