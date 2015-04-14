@@ -154,16 +154,16 @@
 
 1. List of preprocessing scripts, in the order of preprocessing:
 
-        # Update activity files of NCI cancer cell lines
+  1. Update activity files of NCI cancer cell lines
         update_ncicancer_actfiles.py
 
-        # Select molecules and arrange the activity score matrix
+  2. Select molecules and arrange the activity score matrix
         update_ncicancer_selections.py
         update_ncicancer_selections.r
 
-        # Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
-        # You need to modify the code in order to computer fp3 and fp3 features.
-        # The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
+  3. Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
+     You need to modify the code in order to computer fp3 and fp3 features.
+     The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
         compute_fingerprint_parallel.py
         run_R_to_mat.m
         run_sdf_to_mat.r
