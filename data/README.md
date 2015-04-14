@@ -156,7 +156,7 @@
 
   1. Update activity files of NCI cancer cell lines
 
-        ./preprocessing_codes/update_ncicancer_actfiles.py
+        ./preprocessing_codes/update_ncicancer_actfiles.py      
 
   2. Select molecules and arrange the activity score matrix
 
