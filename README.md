@@ -22,7 +22,7 @@ When use the processed data, please cite the following papers:
 **Details**
 --
 
-Please refer to ./data/Readme for more information about molecular activity data.
+Please refer to ./data/README.md for more information about molecular activity data.
 
 
 
