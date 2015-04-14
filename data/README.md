@@ -166,7 +166,8 @@
   3. Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
 
      You need to modify the code in order to computer fp3 and fp3 features.
-  5. The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
+  
+     The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
 
         compute_fingerprint_parallel.py
         run_R_to_mat.m
@@ -179,7 +180,8 @@
         complete_tanimoto_kernel_matrix.r
 
   7. Based on generated adjacency matrces of molecules, compute different kinds of graph kernels.
-  8. Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster.
+
+     Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster.
 
         compute_graph_kernels.m
         compute_graph_kernels.py
