@@ -164,7 +164,7 @@
         update_ncicancer_selections.r
 
   3. Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
-  .You need to modify the code in order to computer fp3 and fp3 features.
+   .You need to modify the code in order to computer fp3 and fp3 features.
      The code is also used to generate for each molecule an adjacency matrix as .mat file which is used in graph kernel computation.
         compute_fingerprint_parallel.py
         run_R_to_mat.m
