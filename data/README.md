@@ -156,12 +156,12 @@
 
   1. Update activity files of NCI cancer cell lines
 
-        ./update_ncicancer_actfiles.py
+        update_ncicancer_actfiles.py
 
   2. Select molecules and arrange the activity score matrix
 
-        ./update_ncicancer_selections.py
-        ./update_ncicancer_selections.r
+        update_ncicancer_selections.py
+        update_ncicancer_selections.r
 
   3. Compute for each molecule a fingerprint vector. The code is implemented for fp2 fingerprint.
 
