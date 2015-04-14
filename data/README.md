@@ -6,13 +6,13 @@
 **Download Data**
 --
 
-1. Take a look at http://dtp.cancer.gov/index.html to get an overview of the drug screen project.
+1. Take a look at (http://dtp.cancer.gov/index.html) to get an overview of the drug screen project.
 
 2. Either process the data with your own scripts or follow the scripts and instruction.
 
 3. The goad here is to better understand the structure of the data source and to validate the processed data.
 
-..*. Go to http://www.ncbi.nlm.nih.gov/pcassay and search with keywords 'DTP/NCI'.
+..* Go to (http://www.ncbi.nlm.nih.gov/pcassay) and search with keywords 'DTP/NCI'.
 
 ..*. Download the list of cellline AIDs that correspond to the celllines in DTP/NCI project and save AIDs to the file:../DTPNCI2015/otherfiles/pcassay.
 
