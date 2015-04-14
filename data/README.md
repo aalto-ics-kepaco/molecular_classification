@@ -139,14 +139,14 @@
 
 7. List of other files during preprocessing (e.g. structure files, fingerprint files):
 
-	./structures/FPfile_list                list of generated fp2 fingerprint files
-	./structures/FPfile_list_fp3            list of generated fp3 fingerprint files
-	./structures/FPfile_list_fp4            list of generated fp4 fingerprint files
-	./structures/FPfiles/                   all fp2, fp3, and fp4 fingerprint files
-	./structures/MATLABfile_list            list of .mat files (adjacency matrix for each molecule) 
-	./structures/MATLABfiles/               all .mat files
-	./structures/sdffile_list               list of .sdf structure files
-	./structures/sdffiles/                  all .sdf structure file
+        ./structures/FPfile_list                list of generated fp2 fingerprint files
+        ./structures/FPfile_list_fp3            list of generated fp3 fingerprint files
+        ./structures/FPfile_list_fp4            list of generated fp4 fingerprint files
+        ./structures/FPfiles/                   all fp2, fp3, and fp4 fingerprint files
+        ./structures/MATLABfile_list            list of .mat files (adjacency matrix for each molecule) 
+        ./structures/MATLABfiles/               all .mat files
+        ./structures/sdffile_list               list of .sdf structure files
+        ./structures/sdffiles/                  all .sdf structure file
 
 
 **Scripts**
