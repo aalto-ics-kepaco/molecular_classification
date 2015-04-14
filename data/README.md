@@ -26,14 +26,23 @@
 --
 
 1. So far, we have around 40,000 molecules with their activities in about 70 cell lines. There exist two problems with this data matrix in the file:./activity.txt which we should tackle.
+
 2. The first problem is that we still need structural information for molecules, based on which we can measure the similaries with e.g. kernel methods.
-        -. The structural information of molecules are in the folder:./molecular_structures, where there are two types of structural information for molecules, namely, SDF files and SMI strings. 
-        -. Note that we may not have a complete set of structures. Therefore, we need to filter the activity matrix against the set of molecular structures available in the folder.
+
+  1. The structural information of molecules are in the folder:./molecular_structures, where there are two types of structural information for molecules, namely, SDF files and SMI strings. 
+
+  2. Note that we may not have a complete set of structures. Therefore, we need to filter the activity matrix against the set of molecular structures available in the folder.
+
 3. The second problem is that the activity score matrix in the file:activity_complete is not complete. In other words, there area many entries with missing value. This is problemetic during learning in the later phase.
-        -. To tackle the second problem, we will organize the score matrix such that the complete information will appear in the upper left block of the whole matrix.
-        -. We are given a set of 60 cancer cell lines in the file:otherfiles/id2aid2names. These cell lines are the ones with additional information e.g. in cell miner (http://discover.nci.nih.gov/cellminer/home.do).
-        -. First, we organize the score matrix such that the first 60 columns will correspond to these 60 cell lines, and the rest will follow. In particular, we have column structure as 60 + 13. 
-        -. Then we organize the rows of the score matrix such that the first ~4000 rows will correspond to the molecules that have complete data in these 60 cell lines. The rest will follow.
+
+  1. To tackle the second problem, we will organize the score matrix such that the complete information will appear in the upper left block of the whole matrix.
+
+  2. We are given a set of 60 cancer cell lines in the file:otherfiles/id2aid2names. These cell lines are the ones with additional information e.g. in cell miner (http://discover.nci.nih.gov/cellminer/home.do).
+
+  3. First, we organize the score matrix such that the first 60 columns will correspond to these 60 cell lines, and the rest will follow. In particular, we have column structure as 60 + 13. 
+
+  4. Then we organize the rows of the score matrix such that the first ~4000 rows will correspond to the molecules that have complete data in these 60 cell lines. The rest will follow.
+
 4. We notice that the activity score is computed according -10*log(GI50). We still need binary value as the activity outcome for classification task. According to NCBI, a molecule is 'active' if the activity score is over(**=) 60 and 'inactive' otherwise.
 
 
