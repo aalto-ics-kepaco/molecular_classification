@@ -137,7 +137,7 @@
 
 6. It is recommanded to center the kernel matrix. 
 
-7. List of other files during preprocessing (e.g. structure files, fingerprint files)
+7. List of other files during preprocessing (e.g. structure files, fingerprint files):
 
 	./structures/FPfile_list                list of generated fp2 fingerprint files
 	./structures/FPfile_list_fp3            list of generated fp3 fingerprint files
