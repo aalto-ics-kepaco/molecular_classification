@@ -108,7 +108,7 @@
 **Result files**
 --
 
-1.. Notations
+1. Notations
 
         m       the number of examples (molecular structures)
         k       the number of labels (cancer cell lines)
@@ -128,11 +128,17 @@
         ./DTPNCI2015/results/ncicancer_kernel           m by m kernel matrix with fp2 fingerprint feature, m=5000 
         ./DTPNCI2015/results/ncicancer_kernel_fpk       m by m kernel matrix of other two fingerprint kernels, m=5000 
         ./DTPNCI2015/results/ncicancer_kernel_graph_*   m by m graph kernel matrix, m=5000 
--. The kernel file is not in the GitHub due to the size limit.
--. These are inputs to the kernel based learning algorithms.
--. All kernel matrices are normalized such that values on diagonal are all one.
--. It is recommanded to center the kernel matrix. 
--. List of other files during preprocessing (e.g. structure files, fingerprint files)
+
+3. The kernel file is not in the GitHub due to the size limit.
+
+4. These are inputs to the kernel based learning algorithms.
+
+5. All kernel matrices are normalized such that values on diagonal are all one.
+
+6. It is recommanded to center the kernel matrix. 
+
+7. List of other files during preprocessing (e.g. structure files, fingerprint files)
+
 	./structures/FPfile_list                list of generated fp2 fingerprint files
 	./structures/FPfile_list_fp3            list of generated fp3 fingerprint files
 	./structures/FPfile_list_fp4            list of generated fp4 fingerprint files
