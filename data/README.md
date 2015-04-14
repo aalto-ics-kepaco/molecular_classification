@@ -181,7 +181,7 @@
 
   7. Based on generated adjacency matrces of molecules, compute different kinds of graph kernels.
 
-     Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster.
+     Graph kernel computation is based on a Matlab toolbox. The Python script enables the parallel computation in an interactive computer cluster:
 
         ./preprocessing_codes/compute_graph_kernels.m
         ./preprocessing_codes/compute_graph_kernels.py
