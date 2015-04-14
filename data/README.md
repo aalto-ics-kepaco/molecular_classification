@@ -106,12 +106,16 @@
 
 
 **Result files**
--. Notations
+--
+
+1.. Notations
+
         m       the number of examples (molecular structures)
         k       the number of labels (cancer cell lines)
         d       the number of features (fingerprints)
 
--. List of files generated from preprocessing:
+2. List of files generated from preprocessing:
+
         ./DTPNCI2014/activity_complete                  all molecules with all activities in all cell lines
         ./DTPNCI2014/activity_complete_structurefilter  all molecules with structural information with all activities in all cell lines
         ./DTPNCI2014/activity_processed                 arrange molecules and activities 
